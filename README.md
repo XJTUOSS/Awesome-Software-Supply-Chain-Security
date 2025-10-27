@@ -12,10 +12,13 @@ This repository collects and organizes academic papers related to Software Suppl
 - ChainFuzz: Exploiting Upstream Vulnerabilities in Open-Source Supply Chains
   - [Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/deng) | [PDF](https://www.usenix.org/system/files/usenixsecurity25-deng.pdf)
 
+- An industry interview study of software signing for supply chain security
+  - [Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/kalu) | [PDF](https://www.usenix.org/system/files/usenixsecurity25-kalu.pdf)
+
 ##### NDSS
 
 - Attributing Open-Source Contributions is Critical but Difficult: A Systematic Analysis of GitHub Practices and Their Impact on Software Supply Chain Security
-  - [Paper](https://www.ndss-symposium.org/wp-content/uploads/2025-613-paper.pdf) | [DOI](https://doi.org/10.60882/cispa.28714826.v1)
+  - [Paper](https://www.ndss-symposium.org/wp-content/uploads/2025-613-paper.pdf) | [DOI](https://doi.org/10.60882/cispa.28714826.v1) | [Slides](https://www.ndss-symposium.org/wp-content/uploads/9D-f0613-holtgrave.pdf)
 
 #### 2024
 
@@ -39,10 +42,22 @@ This repository collects and organizes academic papers related to Software Suppl
 - It's like flossing your teeth: On the importance and challenges of reproducible builds for software supply chain security
   - [Paper](https://ieeexplore.ieee.org/abstract/document/10179320) | [DOI](https://doi.org/10.1109/SP46215.2023.10179320)
 
+- "Always Contribute Back": A Qualitative Study on Security Challenges of the Open Source Supply Chain
+  - [Paper](https://ieeexplore.ieee.org/document/10179378) | [DOI](https://doi.org/10.1109/SP46215.2023.10179378)
+
+- Continuous intrusion: Characterizing the security of continuous integration services
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10179471) | [DOI](https://doi.org/10.1109/SP46215.2023.10179471)
+
 ##### USENIX Security
 
 - V1SCAN: Discovering 1-day Vulnerabilities in Reused C/C++ Open-source Software Components Using Code Classification Techniques
-  - [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/woo)
+  - [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/woo) | [PDF](https://www.usenix.org/system/files/usenixsecurity23-woo.pdf)
+
+- Beyond typosquatting: an in-depth look at package confusion
+  - [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/neupane) | [PDF](https://www.usenix.org/system/files/usenixsecurity23-neupane.pdf)
+
+- Union under duress: Understanding hazards of duplicate resource mismediation in android software supply chain
+  - [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-xueqiang-duress) | [PDF](https://www.usenix.org/system/files/usenixsecurity23-wang-xueqiang-duress.pdf)
 
 ---
 
@@ -59,7 +74,6 @@ This repository collects and organizes academic papers related to Software Suppl
 
 - [Paper Title]
   - [Paper](link)
-  - Brief description
 
 ##### ASE (Automated Software Engineering)
 
