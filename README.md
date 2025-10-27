@@ -7,81 +7,42 @@ This repository collects and organizes academic papers related to Software Suppl
 
 #### 2025
 
-##### IEEE S&P (Oakland)
-
-- [Paper Title]
-  - [Paper](link) | [Code](link) | [Slides](link)
-  - Keywords:
-
 ##### USENIX Security
 
-- [Paper Title]
-  - [Paper](link) | [Code](link)
-  - Keywords:
-
-##### ACM CCS
-
-- [Paper Title]
-  - [Paper](link)
-  - Brief description
+- ChainFuzz: Exploiting Upstream Vulnerabilities in Open-Source Supply Chains
+  - [Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/deng) | [PDF](https://www.usenix.org/system/files/usenixsecurity25-deng.pdf)
 
 ##### NDSS
 
-- [Paper Title]
-  - [Paper](link)
-  - Keywords:
+- Attributing Open-Source Contributions is Critical but Difficult: A Systematic Analysis of GitHub Practices and Their Impact on Software Supply Chain Security
+  - [Paper](https://www.ndss-symposium.org/wp-content/uploads/2025-613-paper.pdf) | [DOI](https://doi.org/10.60882/cispa.28714826.v1)
 
 #### 2024
 
 ##### IEEE S&P (Oakland)
 
-- [Paper Title]
-  - [Paper](link)
-  - Keywords:
+- Signing in four public software package registries: Quantity, quality, and influencing factors
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10646801/)
 
 ##### USENIX Security
 
-- [Paper Title]
-  - [Paper](link)
-  - Keywords:
-
-##### ACM CCS
-
-- [Paper Title]
-  - [Paper](link)
-  - Keywords:
-
-##### NDSS
-
-- [Paper Title]
-  - [Paper](link)
-  - Keywords:
+- iHunter: Hunting Privacy Violations at Scale in the Software Supply Chain on iOS
+  - [Paper](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-dexin)
 
 #### 2023
 
 ##### IEEE S&P (Oakland)
 
-- [Paper Title]
-  - [Paper](link)
-  - Keywords:
+- SoK: Taxonomy of Attacks on Open-Source Software Supply Chains
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10179304) | [DOI](https://doi.org/10.1109/SP46215.2023.10179304)
+
+- It's like flossing your teeth: On the importance and challenges of reproducible builds for software supply chain security
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10179320) | [DOI](https://doi.org/10.1109/SP46215.2023.10179320)
 
 ##### USENIX Security
 
-- [Paper Title]
-  - [Paper](link)
-  - Keywords:
-
-##### ACM CCS
-
-- [Paper Title]
-  - [Paper](link)
-  - Keywords:
-
-##### NDSS
-
-- [Paper Title]
-  - [Paper](link)
-  - Keywords:
+- V1SCAN: Discovering 1-day Vulnerabilities in Reused C/C++ Open-source Software Components Using Code Classification Techniques
+  - [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/woo)
 
 ---
 
@@ -93,7 +54,6 @@ This repository collects and organizes academic papers related to Software Suppl
 
 - [Paper Title]
   - [Paper](link) | [Code](link) | [Slides](link)
-  - Keywords:
 
 ##### FSE/ESEC (Foundations of Software Engineering)
 
@@ -105,65 +65,11 @@ This repository collects and organizes academic papers related to Software Suppl
 
 - [Paper Title]
   - [Paper](link)
-  - Keywords:
 
 ##### ISSTA (International Symposium on Software Testing and Analysis)
 
 - [Paper Title]
   - [Paper](link)
-  - Keywords:
-
-#### 2024
-
-##### ICSE
-
-- [Paper Title]
-  - [Paper](link)
-  - Keywords:
-
-##### FSE/ESEC
-
-- [Paper Title]
-  - [Paper](link)
-  - Keywords:
-
-##### ASE
-
-- [Paper Title]
-  - [Paper](link)
-  - Keywords:
-
-##### ISSTA
-
-- [Paper Title]
-  - [Paper](link)
-  - Keywords:
-
-#### 2023
-
-##### ICSE
-
-- [Paper Title]
-  - [Paper](link)
-  - Brief description
-
-##### FSE/ESEC
-
-- [Paper Title]
-  - [Paper](link)
-  - Brief description
-
-##### ASE
-
-- [Paper Title]
-  - [Paper](link)
-  - Brief description
-
-##### ISSTA
-
-- [Paper Title]
-  - [Paper](link)
-  - Brief description
 
 ---
 
@@ -191,7 +97,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. When addin
 
 - Full paper title
 - Links to paper, code (if available), and slides (if available)
-- Keywords
 
 ### Commit Message Format
 
@@ -204,7 +109,7 @@ Please use the following format for commit messages:
 Examples:
 - `[ICSE 2025] Add paper on supply chain vulnerability detection`
 - `[CCS 2024] Add malicious package detection research`
-- `[FSE 2023] Update paper links and keywords`
+- `[FSE 2023] Update paper links`
 - `[Multiple] Add 3 papers from S&P and NDSS 2024`
 
 Format guidelines:
