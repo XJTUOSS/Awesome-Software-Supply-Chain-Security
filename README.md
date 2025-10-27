@@ -65,6 +65,11 @@ This repository collects and organizes academic papers related to Software Suppl
 
 #### 2025
 
+##### ICSE
+
+- ZTDJAVA: Mitigating Software Supply Chain Vulnerabilities via Zero-Trust Dependencies
+  - [Paper](https://doi.org/10.1109/ICSE55347.2025.00148)
+
 ##### FSE/ESEC
 
 - Dirty-Waters: Detecting Software Supply Chain Smells
@@ -76,6 +81,11 @@ This repository collects and organizes academic papers related to Software Suppl
   - [Paper](https://arxiv.org/pdf/2506.01342)
 
 #### 2024
+
+##### ICSE
+
+- Strengthening supply chain security with fine-grained safe patch identification
+  - [Paper](https://dl.acm.org/doi/abs/10.1145/3597503.3639104) | [PDF](https://dl.acm.org/doi/pdf/10.1145/3597503.3639104)
 
 ##### ASE
 
@@ -104,11 +114,11 @@ This repository collects and organizes academic papers related to Software Suppl
 | ACM CCS | 0 | 0 | 0 | 0 |
 | NDSS | 1 | 0 | 0 | 1 |
 | Software Engineering |
-| ICSE | 0 | 0 | 0 | 0 |
+| ICSE | 1 | 1 | 0 | 2 |
 | FSE/ESEC | 1 | 0 | 1 | 2 |
 | ASE | 1 | 2 | 0 | 3 |
 | ISSTA | 0 | 0 | 0 | 0 |
-| Total | 5 | 4 | 8 | 17 |
+| Total | 6 | 5 | 8 | 19 |
 
 ---
 
