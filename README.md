@@ -65,25 +65,29 @@ This repository collects and organizes academic papers related to Software Suppl
 
 #### 2025
 
-##### ICSE (International Conference on Software Engineering)
+##### FSE/ESEC
 
-- [Paper Title]
-  - [Paper](link) | [Code](link) | [Slides](link)
+- Dirty-Waters: Detecting Software Supply Chain Smells
+  - [Paper](https://doi.org/10.1145/3696630.372857) | [PDF](https://dl.acm.org/doi/pdf/10.1145/3696630.3728578)
 
-##### FSE/ESEC (Foundations of Software Engineering)
+##### ASE
 
-- [Paper Title]
-  - [Paper](link)
+- Propagation-Based Vulnerability Impact Assessment for Software Supply Chains
+  - [Paper](https://arxiv.org/pdf/2506.01342)
 
-##### ASE (Automated Software Engineering)
+#### 2024
 
-- [Paper Title]
-  - [Paper](link)
+##### ASE
 
-##### ISSTA (International Symposium on Software Testing and Analysis)
+- Software Supply Chain Risk: Characterization, Measurement & Attenuation
+  - [Paper](https://dl.acm.org/doi/pdf/10.1145/3691620.3695608)
 
-- [Paper Title]
-  - [Paper](link)
+#### 2023
+
+##### FSE/ESEC
+
+- Modeling the Centrality of Developer Output with Software Supply Chains
+  - [Paper](https://dl.acm.org/doi/pdf/10.1145/3611643.3613873)
 
 ---
 
@@ -92,16 +96,16 @@ This repository collects and organizes academic papers related to Software Suppl
 | Conference | 2025 | 2024 | 2023 | Total |
 |------------|------|------|------|-------|
 | Security |
-| IEEE S&P | 0 | 0 | 0 | 0 |
-| USENIX Security | 0 | 0 | 0 | 0 |
+| IEEE S&P | 0 | 1 | 4 | 5 |
+| USENIX Security | 2 | 1 | 3 | 6 |
 | ACM CCS | 0 | 0 | 0 | 0 |
-| NDSS | 0 | 0 | 0 | 0 |
+| NDSS | 1 | 0 | 0 | 1 |
 | Software Engineering |
 | ICSE | 0 | 0 | 0 | 0 |
-| FSE/ESEC | 0 | 0 | 0 | 0 |
-| ASE | 0 | 0 | 0 | 0 |
+| FSE/ESEC | 1 | 0 | 1 | 2 |
+| ASE | 1 | 1 | 0 | 2 |
 | ISSTA | 0 | 0 | 0 | 0 |
-| Total | 0 | 0 | 0 | 0 |
+| Total | 5 | 3 | 8 | 16 |
 
 ---
 
