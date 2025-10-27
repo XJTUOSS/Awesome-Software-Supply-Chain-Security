@@ -82,6 +82,9 @@ This repository collects and organizes academic papers related to Software Suppl
 - Software Supply Chain Risk: Characterization, Measurement & Attenuation
   - [Paper](https://dl.acm.org/doi/pdf/10.1145/3691620.3695608)
 
+- Towards robust detection of open source software supply chain poisoning attacks in industry environments
+  - [Paper](https://dl.acm.org/doi/abs/10.1145/3691620.3695262) | [PDF](https://dl.acm.org/doi/pdf/10.1145/3691620.3695262)
+
 #### 2023
 
 ##### FSE/ESEC
@@ -103,9 +106,9 @@ This repository collects and organizes academic papers related to Software Suppl
 | Software Engineering |
 | ICSE | 0 | 0 | 0 | 0 |
 | FSE/ESEC | 1 | 0 | 1 | 2 |
-| ASE | 1 | 1 | 0 | 2 |
+| ASE | 1 | 2 | 0 | 3 |
 | ISSTA | 0 | 0 | 0 | 0 |
-| Total | 5 | 3 | 8 | 16 |
+| Total | 5 | 4 | 8 | 17 |
 
 ---
 
