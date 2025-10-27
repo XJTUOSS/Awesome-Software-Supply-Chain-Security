@@ -69,16 +69,35 @@ This repository collects and organizes academic papers related to Software Suppl
 
 - ZTDJAVA: Mitigating Software Supply Chain Vulnerabilities via Zero-Trust Dependencies
   - [Paper](https://doi.org/10.1109/ICSE55347.2025.00148)
+  
+- An Empirical Study on Reproducible Packaging in Open-Source Ecosystems
+  - [Paper](https://doi.org/10.1109/ICSE55347.2025.00136)
+
+- Leveraging Large Language Models to Detect npm Malicious Packages
+  - [Paper](https://doi.org/10.1109/ICSE55347.2025.00146) 
+
+- Tiver: Identifying Adaptive Versions of C/C++ Third-Party Open-Source Components Using a Code Clustering Technique 
+  - [Paper](https://doi.org/10.1109/ICSE55347.2025.00188)
+
+- GVI: Guided Vulnerability Imagination for Boosting Deep Vulnerability Detectors
+  - [Paper](https://doi.org/10.1109/ICSE55347.2025.00214)
+  
+- Understanding the Response to Open-Source Dependency Abandonment in the npm Ecosystem
+  - [Paper](https://doi.org/10.1109/ICSE55347.2025.00004)
 
 ##### FSE/ESEC
 
-- Dirty-Waters: Detecting Software Supply Chain Smells
-  - [Paper](https://doi.org/10.1145/3696630.372857) | [PDF](https://dl.acm.org/doi/pdf/10.1145/3696630.3728578)
+The conference proceedings for FSE/ESEC 2025 have not been released yet.
 
 ##### ASE
 
 - Propagation-Based Vulnerability Impact Assessment for Software Supply Chains
   - [Paper](https://arxiv.org/pdf/2506.01342)
+
+#### ISSTA
+
+The conference proceedings for ISSTA 2025 have not been released yet.
+
 
 #### 2024
 
@@ -86,6 +105,23 @@ This repository collects and organizes academic papers related to Software Suppl
 
 - Strengthening supply chain security with fine-grained safe patch identification
   - [Paper](https://dl.acm.org/doi/abs/10.1145/3597503.3639104) | [PDF](https://dl.acm.org/doi/pdf/10.1145/3597503.3639104)
+- Identifying Affected Libraries and Their Ecosystems for Open Source Software Vulnerabilities
+  - [Paper](https://doi.org/10.1145/3597503.3639582)
+
+- Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports
+  - [Paper](https://doi.org/10.1145/3597503.3639202)
+
+- BOMs Away! Inside the Minds of Stakeholders: A Comprehensive Study of Bills of Materials for Software Systems
+  - [Paper](https://doi.org/10.1145/3597503.3623347)
+
+- CNEPS: A Precise Approach for Examining Dependencies among Third-Party C/C++ Open-Source Components
+  - [Paper](https://doi.org/10.1145/3597503.3639209)
+  
+##### FSE/ESEC
+
+- Unveil the Mystery of Critical Software Vulnerabilities
+  - [Paper](https://doi.org/10.1145/3663529.3663835)
+
 
 ##### ASE
 
@@ -95,12 +131,59 @@ This repository collects and organizes academic papers related to Software Suppl
 - Towards robust detection of open source software supply chain poisoning attacks in industry environments
   - [Paper](https://dl.acm.org/doi/abs/10.1145/3691620.3695262) | [PDF](https://dl.acm.org/doi/pdf/10.1145/3691620.3695262)
 
+- SpiderScan: Practical Detection of Malicious NPM Packages Based on Graph-Based Behavior Modeling and Matching  
+  - [Paper](https://doi.org/10.1145/3691620.3695492)
+
+- Vision: Identifying Affected Library Versions for Open Source Software Vulnerabilities  
+  - [Paper](https://doi.org/10.1145/3691620.3695516)
+
+#### ISSTA
+
+- Maltracker: A Fine-Grained NPM Malware Tracker Copiloted by LLM-Enhanced Dataset  
+  - [Paper](https://doi.org/10.1145/3650212.3680397)
+
 #### 2023
+
+##### ICSE
+
+- Bad Snakes: Understanding and Improving Python Package Index Malware Scanning
+  - [Paper](https://doi.org/10.1109/ICSE48619.2023.00052)
+
+- An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead
+  - [Paper](https://doi.org/10.1109/ICSE48619.2023.00219)
+
+- Understanding the Threats of Upstream Vulnerabilities to Downstream Projects in the Maven Ecosystem 
+  - [Paper](https://doi.org/10.1109/ICSE48619.2023.00095)
+
+- Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation
+  - [Paper](https://doi.org/10.1109/ICSE48619.2023.00089)
+
+- Chronos: Time-Aware Zero-Shot Identification of Libraries from Vulnerability Reports
+  - [Paper](https://doi.org/10.1109/ICSE48619.2023.00094)
+
 
 ##### FSE/ESEC
 
 - Modeling the Centrality of Developer Output with Software Supply Chains
   - [Paper](https://dl.acm.org/doi/pdf/10.1145/3611643.3613873)
+
+- Lessons from the Long Tail: Analysing Unsafe Dependency Updates across Software Ecosystems
+  - [Paper](https://doi.org/10.1145/3611643.3613086)
+
+
+##### ASE
+
+- MalWuKong: Towards Fast, Accurate, and Multilingual Detection of Malicious Code Poisoning in OSS Supply Chains  
+  - [Paper](https://doi.org/10.1109/ASE56229.2023.00073)
+
+- An Empirical Study of Malicious Code In PyPI Ecosystem  
+  - [Paper](https://doi.org/10.1109/ASE56229.2023.00135)
+
+- Mitigating Persistence of Open-Source Vulnerabilities in Maven Ecosystem  
+  - [Paper](https://doi.org/10.1109/ASE56229.2023.00058)
+
+- Towards Understanding Third-party Library Dependency in C/C++ Ecosystem  
+  - [Paper](https://doi.org/10.1145/3551349.3560432)
 
 ---
 
@@ -114,11 +197,11 @@ This repository collects and organizes academic papers related to Software Suppl
 | ACM CCS | 0 | 0 | 0 | 0 |
 | NDSS | 1 | 0 | 0 | 1 |
 | Software Engineering |
-| ICSE | 1 | 1 | 0 | 2 |
-| FSE/ESEC | 1 | 0 | 1 | 2 |
-| ASE | 1 | 2 | 0 | 3 |
-| ISSTA | 0 | 0 | 0 | 0 |
-| Total | 6 | 5 | 8 | 19 |
+| ICSE | 6 | 5 | 5 | 16 |
+| FSE/ESEC | 0 | 1 | 2 | 3 |
+| ASE | 1 | 4 | 4 | 9 |
+| ISSTA | 0 | 1 | 0 | 1 |
+| Total | 10 | 13 | 18 | 41 |
 
 ---
 
