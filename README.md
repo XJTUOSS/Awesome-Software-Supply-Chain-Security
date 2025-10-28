@@ -256,7 +256,7 @@ The conference proceedings for ISSTA 2025 have not been released yet.
 | Conference | 2025 | 2024 | 2023 | Total |
 |------------|------|------|------|-------|
 | Security |
-| IEEE S&P | 0 | 1 | 4 | 5 |
+| IEEE S&P | 3 | 2 | 14 | 19 |
 | USENIX Security | 5 | 2 | 7 | 14 |
 | ACM CCS | 0 | 0 | 1 | 1 |
 | NDSS | 1 | 0 | 0 | 1 |
@@ -265,7 +265,7 @@ The conference proceedings for ISSTA 2025 have not been released yet.
 | FSE/ESEC | 0 | 1 | 2 | 3 |
 | ASE | 1 | 4 | 4 | 9 |
 | ISSTA | 0 | 1 | 0 | 1 |
-| Total | 13 | 14 | 23 | 50 |
+| Total | 16 | 15 | 33 | 64 |
 
 ---
 
