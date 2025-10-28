@@ -15,6 +15,16 @@ This repository collects and organizes academic papers related to Software Suppl
 - An industry interview study of software signing for supply chain security
   - [Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/kalu) | [PDF](https://www.usenix.org/system/files/usenixsecurity25-kalu.pdf)
 
+- We have a package for you! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs  
+  - [Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/spracklen) | [PDF](https://www.usenix.org/system/files/usenixsecurity25-spracklen.pdf)
+
+- A Mixed-Methods Study of Open-Source Software Maintainers on Vulnerability Management and Platform Security Features  
+  - [Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/ayala) | [PDF](https://www.usenix.org/system/files/usenixsecurity25-ayala.pdf)
+
+- "I Wasn't Sure if This Is Indeed a Security Risk": Data-Driven Understanding of Security Issue Reporting in GitHub Repositories of Open Source npm Packages  
+  - [Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/ghosh) | [PDF](https://www.usenix.org/system/files/usenixsecurity25-ghosh.pdf)
+
+
 ##### NDSS
 
 - Attributing Open-Source Contributions is Critical but Difficult: A Systematic Analysis of GitHub Practices and Their Impact on Software Supply Chain Security
@@ -31,6 +41,9 @@ This repository collects and organizes academic papers related to Software Suppl
 
 - iHunter: Hunting Privacy Violations at Scale in the Software Supply Chain on iOS
   - [Paper](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-dexin)
+
+- DONAPI: Malicious NPM Packages Detector Using Behavior Sequence Knowledge Mapping  
+  - [Paper](https://www.usenix.org/conference/usenixsecurity24/presentation/huang-cheng)
 
 #### 2023
 
@@ -59,11 +72,24 @@ This repository collects and organizes academic papers related to Software Suppl
 - V1SCAN: Discovering 1-day Vulnerabilities in Reused C/C++ Open-source Software Components Using Code Classification Techniques
   - [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/woo) | [PDF](https://www.usenix.org/system/files/usenixsecurity23-woo.pdf)
 
-- Beyond typosquatting: an in-depth look at package confusion
-  - [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/neupane) | [PDF](https://www.usenix.org/system/files/usenixsecurity23-neupane.pdf)
-
 - Union under duress: Understanding hazards of duplicate resource mismediation in android software supply chain
   - [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-xueqiang-duress) | [PDF](https://www.usenix.org/system/files/usenixsecurity23-wang-xueqiang-duress.pdf)
+
+- ARGUS: A Framework for Staged Static Taint Analysis of GitHub Workflows and Actions  
+  - [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/muralee) | [PDF](https://www.usenix.org/system/files/usenixsecurity23-muralee.pdf)
+
+- Beyond Typosquatting: An In-Depth Look at Package Confusion  
+  - [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/neupane) | [PDF](https://www.usenix.org/system/files/usenixsecurity23-neupane.pdf)
+
+- Trojan Source: Invisible Vulnerabilities  
+  - [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/boucher) | [PDF](https://www.usenix.org/system/files/usenixsecurity23-boucher.pdf)
+
+- Silent spring: prototype pollution leads to remote code execution in node.js
+  - [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/shcherbakov) | [PDF](https://www.usenix.org/system/files/usenixsecurity23-shcherbakov.pdf)
+
+- Bilingual Problems: Studying the Security Risks Incurred by Native Extensions in Scripting Languages  
+  - [Paper](https://www.usenix.org/conference/usenixsecurity23/presentation/staicu) | [PDF](https://www.usenix.org/system/files/usenixsecurity23-staicu.pdf)
+
 
 ---
 
@@ -199,7 +225,7 @@ The conference proceedings for ISSTA 2025 have not been released yet.
 |------------|------|------|------|-------|
 | Security |
 | IEEE S&P | 0 | 1 | 4 | 5 |
-| USENIX Security | 2 | 1 | 3 | 6 |
+| USENIX Security | 5 | 2 | 7 | 14 |
 | ACM CCS | 0 | 0 | 1 | 1 |
 | NDSS | 1 | 0 | 0 | 1 |
 | Software Engineering |
@@ -207,7 +233,7 @@ The conference proceedings for ISSTA 2025 have not been released yet.
 | FSE/ESEC | 0 | 1 | 2 | 3 |
 | ASE | 1 | 4 | 4 | 9 |
 | ISSTA | 0 | 1 | 0 | 1 |
-| Total | 10 | 13 | 18 | 42 |
+| Total | 13 | 14 | 23 | 50 |
 
 ---
 
