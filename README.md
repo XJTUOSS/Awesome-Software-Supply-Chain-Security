@@ -47,6 +47,12 @@ This repository collects and organizes academic papers related to Software Suppl
 
 - Continuous intrusion: Characterizing the security of continuous integration services
   - [Paper](https://ieeexplore.ieee.org/abstract/document/10179471) | [DOI](https://doi.org/10.1109/SP46215.2023.10179471)
+  
+##### CCS
+
+- Jack-in-the-box: An Empirical Study of JavaScript Bundling on the Web and its Security Implications  
+  - [Paper](https://doi.org/10.1145/3576915.3623140)
+
 
 ##### USENIX Security
 
@@ -194,14 +200,14 @@ The conference proceedings for ISSTA 2025 have not been released yet.
 | Security |
 | IEEE S&P | 0 | 1 | 4 | 5 |
 | USENIX Security | 2 | 1 | 3 | 6 |
-| ACM CCS | 0 | 0 | 0 | 0 |
+| ACM CCS | 0 | 0 | 1 | 1 |
 | NDSS | 1 | 0 | 0 | 1 |
 | Software Engineering |
 | ICSE | 6 | 5 | 5 | 16 |
 | FSE/ESEC | 0 | 1 | 2 | 3 |
 | ASE | 1 | 4 | 4 | 9 |
 | ISSTA | 0 | 1 | 0 | 1 |
-| Total | 10 | 13 | 18 | 41 |
+| Total | 10 | 13 | 18 | 42 |
 
 ---
 
