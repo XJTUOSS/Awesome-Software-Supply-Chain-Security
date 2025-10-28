@@ -30,12 +30,23 @@ This repository collects and organizes academic papers related to Software Suppl
 - Attributing Open-Source Contributions is Critical but Difficult: A Systematic Analysis of GitHub Practices and Their Impact on Software Supply Chain Security
   - [Paper](https://www.ndss-symposium.org/wp-content/uploads/2025-613-paper.pdf) | [DOI](https://doi.org/10.60882/cispa.28714826.v1) | [Slides](https://www.ndss-symposium.org/wp-content/uploads/9D-f0613-holtgrave.pdf)
 
+##### IEEE S&P (Oakland)
+
+- Obstacles to Practical Supply Chain Risk Management for Digital Components
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11121660)
+- Establishing Provenance Before Coding: Traditional and Next-Generation Software Signing
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887389)
+- Software Bill of Materials as a Proactive Defense
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10942514)
+
 #### 2024
 
 ##### IEEE S&P (Oakland)
 
 - Signing in four public software package registries: Quantity, quality, and influencing factors
-  - [Paper](https://ieeexplore.ieee.org/abstract/document/10646801/)
+  - [PDF](https://ieeexplore.ieee.org/abstract/document/10646801/)
+- Narrowing the Software Supply Chain Attack Vectors: The SSDF Is Wonderful but not Enough
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488845)
 
 ##### USENIX Security
 
@@ -44,6 +55,7 @@ This repository collects and organizes academic papers related to Software Suppl
 
 - DONAPI: Malicious NPM Packages Detector Using Behavior Sequence Knowledge Mapping  
   - [Paper](https://www.usenix.org/conference/usenixsecurity24/presentation/huang-cheng)
+
 
 #### 2023
 
@@ -60,6 +72,26 @@ This repository collects and organizes academic papers related to Software Suppl
 
 - Continuous intrusion: Characterizing the security of continuous integration services
   - [Paper](https://ieeexplore.ieee.org/abstract/document/10179471) | [DOI](https://doi.org/10.1109/SP46215.2023.10179471)
+- A Viewpoint on Software Supply Chain Security: Are We Getting Lost in Translation?
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10315780)
+- A Viewpoint on Human Factors in Software Supply Chain Security: A Research Agenda
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10315781)
+- Dissecting the Industrial Control Systems Software Supply Chain
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10136825)
+- Journey to the Center of Software Supply Chain Attacks
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224821)
+- Delta Security Certification for Software Supply Chains
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258126)
+- Software Bills of Materials Are Required. Are We There Yet?
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10102604)
+- Challenges of Producing Software Bill of Materials for Java
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10235318)
+- OpenSSF Scorecard: On the Path Toward Ecosystem-Wide Automated Security Metrics
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10163720)
+- A Viewpoint on Knowing Software: Bill of Materials Quality When You See It
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10315783)
+- Software Supply Chain Security [Guest Editors’ Introduction]
+  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10315778)
   
 ##### CCS
 
