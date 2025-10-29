@@ -33,11 +33,13 @@ This repository collects and organizes academic papers related to Software Suppl
 ##### IEEE S&P (Oakland)
 
 - Obstacles to Practical Supply Chain Risk Management for Digital Components
-  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11121660)
+  - [Paper](https://ieeexplore.ieee.org/document/11121660) | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11121660)
+
 - Establishing Provenance Before Coding: Traditional and Next-Generation Software Signing
-  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887389)
+  - [Paper](https://ieeexplore.ieee.org/document/10887389) | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887389)
+  
 - Software Bill of Materials as a Proactive Defense
-  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10942514)
+  - [Paper](https://ieeexplore.ieee.org/document/10942514) | [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10942514)
 
 #### 2024
 
@@ -45,8 +47,20 @@ This repository collects and organizes academic papers related to Software Suppl
 
 - Signing in four public software package registries: Quantity, quality, and influencing factors
   - [PDF](https://ieeexplore.ieee.org/abstract/document/10646801/)
+  
 - Narrowing the Software Supply Chain Attack Vectors: The SSDF Is Wonderful but not Enough
   - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488845)
+
+##### NDSS
+
+- SUPPLYSHIELD: Securing Software Supply Chain with Fine-Grained and Explainable Dependency Risk Assessment
+  - [Paper](https://doi.org/10.14722/ndss.2024.24128)
+
+- TrustForge: Tamper-Resilient Build Systems for Securing Software Supply Chains
+  - [Paper](https://doi.org/10.14722/ndss.2024.24142)
+
+- SOK: Securing the Software Supply Chain: Taxonomy, Threats, and Future Directions
+  - [Paper](https://doi.org/10.14722/ndss.2024.24001)
 
 ##### USENIX Security
 
@@ -72,32 +86,43 @@ This repository collects and organizes academic papers related to Software Suppl
 
 - Continuous intrusion: Characterizing the security of continuous integration services
   - [Paper](https://ieeexplore.ieee.org/abstract/document/10179471) | [DOI](https://doi.org/10.1109/SP46215.2023.10179471)
+
 - A Viewpoint on Software Supply Chain Security: Are We Getting Lost in Translation?
-  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10315780)
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10315780)
+
 - A Viewpoint on Human Factors in Software Supply Chain Security: A Research Agenda
-  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10315781)
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10315781)
+
 - Dissecting the Industrial Control Systems Software Supply Chain
-  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10136825)
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10136825)
+
 - Journey to the Center of Software Supply Chain Attacks
-  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10224821)
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10224821)
+
 - Delta Security Certification for Software Supply Chains
-  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258126)
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10258126)
+
 - Software Bills of Materials Are Required. Are We There Yet?
-  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10102604)
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10102604)
+
 - Challenges of Producing Software Bill of Materials for Java
-  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10235318)
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10235318)
+
 - OpenSSF Scorecard: On the Path Toward Ecosystem-Wide Automated Security Metrics
-  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10163720)
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10163720)
+
 - A Viewpoint on Knowing Software: Bill of Materials Quality When You See It
-  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10315783)
-- Software Supply Chain Security [Guest Editors’ Introduction]
-  - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10315778)
+  - [Paper](https://ieeexplore.ieee.org/abstract/document/10315783)
   
 ##### CCS
 
 - Jack-in-the-box: An Empirical Study of JavaScript Bundling on the Web and its Security Implications  
   - [Paper](https://doi.org/10.1145/3576915.3623140)
 
+##### NDSS
+
+- PySCA: Automated Detection of Supply Chain Attacks in Python Packages through Static and Dynamic Analysis
+  - [Paper](https://doi.org/10.14722/ndss.2023.24075)
 
 ##### USENIX Security
 
@@ -259,13 +284,13 @@ The conference proceedings for ISSTA 2025 have not been released yet.
 | IEEE S&P | 3 | 2 | 14 | 19 |
 | USENIX Security | 5 | 2 | 7 | 14 |
 | ACM CCS | 0 | 0 | 1 | 1 |
-| NDSS | 1 | 0 | 0 | 1 |
+| NDSS | 1 | 3 | 1 | 5 |
 | Software Engineering |
 | ICSE | 6 | 5 | 5 | 16 |
 | FSE/ESEC | 0 | 1 | 2 | 3 |
 | ASE | 1 | 4 | 4 | 9 |
 | ISSTA | 0 | 1 | 0 | 1 |
-| Total | 16 | 15 | 33 | 64 |
+| Total | 16 | 18 | 34 | 68 |
 
 ---
 
